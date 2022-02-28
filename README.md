@@ -4,7 +4,7 @@
 
 - 👨‍💻 I´m graduated as Frontend developer at ADALAB (2021/2022).
 
-- 🔭 I’m currently looking for **opportunities to develop my career**
+- 🔭 I’m currently looking for **opportunities to develop my career**.🚀
 
 - 👨‍💻 All of my projects are available at [https://denisetroglio.github.io/portfolio_denisetroglio/](https://denisetroglio.github.io/portfolio_denisetroglio/)
 
