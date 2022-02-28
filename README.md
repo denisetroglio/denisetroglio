@@ -1,7 +1,6 @@
-# denisetroglio_frontend
 
-<h1 align="center">Hi 👋, I'm Denise Troglio</h1>
-<h3 align="center">Jr. frontend developer 🚀</h3>
+<h1 align="left">Hi 👋, I'm Denise Troglio</h1>
+<h3 align="left">Jr. frontend developer 🚀</h3>
 
 - 🔭 I’m currently looking for **opportunities to develop my career**
 
