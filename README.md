@@ -2,6 +2,8 @@
 <h1 align="left">Hi 👋, I'm Denise Troglio</h1>
 <h3 align="left">Jr. frontend developer 🚀</h3>
 
+- 👨‍💻 I´m graduated as Frontend developer at ADALAB.
+
 - 🔭 I’m currently looking for **opportunities to develop my career**
 
 - 👨‍💻 All of my projects are available at [https://denisetroglio.github.io/portfolio_denisetroglio/](https://denisetroglio.github.io/portfolio_denisetroglio/)
