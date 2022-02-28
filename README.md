@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Denise Troglio</h1>
 <h3 align="left">Jr. frontend developer 🚀</h3>
 
-- 👨‍💻 I´m graduated as Frontend developer at ADALAB.
+- 👨‍💻 I´m graduated as Frontend developer at ADALAB (2021/2022).
 
 - 🔭 I’m currently looking for **opportunities to develop my career**
 
