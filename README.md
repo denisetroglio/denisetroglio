@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for **opportunities to develop my career**.🚀
 
-- 👨‍💻 All of my projects are available at [https://denisetroglio.github.io/portfolio_denisetroglio/](https://denisetroglio.github.io/portfolio_denisetroglio/)
+- 👨‍💻 Some of my projects are available at [https://denisetroglio.github.io/portfolio_denisetroglio/](https://denisetroglio.github.io/portfolio_denisetroglio/)
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript, React, NodeJS and SQL.**
 
