@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://denisetroglio.github.io/portfolio_denisetroglio/](https://denisetroglio.github.io/portfolio_denisetroglio/)
 
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript and React**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript, React, NodeJS and SQL.**
 
 - 📫 How to reach me **overbeck.denise@gmail.com**
 
