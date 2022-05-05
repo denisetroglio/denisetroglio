@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **overbeck.denise@gmail.com**
 
+- Communication: Portugueze(native), Spanish and English.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/denise-troglio-37816868/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denise-troglio-37816868/" height="30" width="40" /></a>
