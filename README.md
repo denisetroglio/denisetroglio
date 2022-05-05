@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **overbeck.denise@gmail.com**
 
-- Communication: Portugueze(native), Spanish and English.
+- Communication: Portugueze (native), Spanish and English.
 
 
 <h3 align="left">Connect with me:</h3>
