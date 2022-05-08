@@ -4,6 +4,8 @@
 
 - 👨‍💻 I´m graduated as Frontend developer at ADALAB (2021/2022).
 
+- 🤓 In 2021 I get my first ISTQB Certification (Certified Foundation Level) by Brightest. 
+
 - 🔭 I’m currently looking for **opportunities to develop my career**.🚀
 
 - 👨‍💻 Some of my projects are available at [https://denisetroglio.github.io/portfolio_denisetroglio/](https://denisetroglio.github.io/portfolio_denisetroglio/)
