@@ -4,7 +4,7 @@
 
 - 👨‍💻 I´m graduated as Frontend developer at ADALAB (2021/2022).
 
-- 🤓 In 2021 I get my first ISTQB Certification (Certified Foundation Level) by Brightest. 
+- 🤓 In 2021 I studied at MTP - Digital Business Assurance (https://www.mtp.es/) and get my first ISTQB Certification (Certified Foundation Level) by Brightest. 
 
 - 🔭 I’m currently looking for **opportunities to develop my career**.🚀
 
