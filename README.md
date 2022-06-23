@@ -29,8 +29,7 @@
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="sqlite"> <img src="https://i.blogs.es/ef26c3/81789893-2daf-418f-a041-8d37ee55b9a0/1366_2000.jpeg" alt="sqlite" width="80" height="30"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://jestjs.io/es-ES/docs/api" target="_blank" rel="jest"> <img src="https://miro.medium.com/max/478/1*ZEpgDdBxq69A9XXy-SxRMg.png" alt="jest" width="80" height="30"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="python"> <img src="https://www.kindpng.com/picc/m/29-293929_python-png-pic-python-software-logo-png-transparent.png" alt="python" width="80" height="30"/> </a>
-<a href="https://robotframework.org/" target="_blank" rel="robot"><img src="https://0701.static.prezi.com/preview/v2/h33ksknq5vnxn6emfh666mckwd6jc3sachvcdoaizecfr3dnitcq_3_0.png" alt="robot" width="70" height="50"/></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="selenium"><img src="https://osl.ugr.es/wp-content/uploads/2021/02/Selenium_Logo.png" alt="selenium" width="50" height="70"/> </a></p>
+<a href="https://robotframework.org/" target="_blank" rel="robot"><img src="https://0701.static.prezi.com/preview/v2/h33ksknq5vnxn6emfh666mckwd6jc3sachvcdoaizecfr3dnitcq_3_0.png" alt="robot" width="70" height="50"/></a></p>
 
 
 
